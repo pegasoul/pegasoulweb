@@ -9,7 +9,7 @@ body {
   width: 100%;
   display: grid;
   justify-content: center;
-  background-image: url(/img/chicaflor.jpg);
+  background-image: url(./img/papel.jpg);
   background-attachment: fixed;
 }
 
